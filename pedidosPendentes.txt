@@ -1,0 +1,22 @@
+ID do Pedido: 1
+Valor Total do Pedido: R$ 50.00
+Saldo do Valor: R$ 20.00
+Itens Pendentes:
+Item 1: saldo quantidade 2
+Item 2: saldo quantidade 5
+Item 3: saldo quantidade 5
+Item 4: saldo quantidade 5
+Item 5: saldo quantidade 5
+
+ID do Pedido: 2
+Valor Total do Pedido: R$ 40.00
+Saldo do Valor: R$ 10.00
+Itens Pendentes:
+Item 1: saldo quantidade 8
+Item 2: saldo quantidade 2
+Item 3: saldo quantidade 8
+Item 4: saldo quantidade 8
+Item 5: saldo quantidade 8
+Item 6: saldo quantidade 8
+Item 7: saldo quantidade 8
+Item 8: saldo quantidade 8

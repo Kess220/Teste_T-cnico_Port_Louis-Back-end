@@ -1,0 +1,14 @@
+[
+  {
+    "número_item": 1,
+    "código_produto": "A22",
+    "quantidade_produto": 5,
+    "valor_unitário_produto": "10.00"
+  },
+  {
+    "número_item": 2,
+    "código_produto": "B33",
+    "quantidade_produto": 8,
+    "valor_unitário_produto": "5.00"
+  }
+]
